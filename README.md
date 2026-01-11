@@ -49,19 +49,6 @@ Quick AI combines essential AI-powered utilities into **one unified, easy-to-use
 
 ---
 
-## 🏆 Hackathon Pitch
-
-> *Quick AI is a unified AI platform that helps users write, design, edit, and improve content faster—without switching between multiple tools.*
-
----
-
-## 👥 Team
-
-**Ctrl Alt Elite**
-*Reset. Innovate. Dominate.*
-
----
-
 ## 📌 Future Enhancements
 
 * User authentication & dashboard
@@ -89,10 +76,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ⭐ If you like this project, don’t forget to **star the repo**!
